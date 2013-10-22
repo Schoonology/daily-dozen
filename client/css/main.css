@@ -1,0 +1,17 @@
+body {
+  padding: 70px 0;
+}
+
+.main-container {
+  position: absolute;
+  width: 100%;
+  top: 50px;
+  bottom: 50px;
+  overflow-y: auto;
+}
+
+.block-center {
+  display: block;
+  margin: 0 auto;
+  float: none;
+}
