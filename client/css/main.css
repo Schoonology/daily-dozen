@@ -10,8 +10,21 @@ body {
   overflow-y: auto;
 }
 
+.main-container > .container {
+  padding: 16px;
+}
+
 .block-center {
   display: block;
   margin: 0 auto;
   float: none;
+}
+
+.food-item {
+  padding: 0;
+}
+
+.food {
+  padding: 12px;
+  margin: 0;
 }
